@@ -1,1 +1,1 @@
-# Ecommerce-browser-automation-with-selenium-and-python-
+# Ecommerce-browser-automation-with-selenium-and-python
